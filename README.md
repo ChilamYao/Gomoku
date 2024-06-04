@@ -6,4 +6,5 @@
 - list
 - item1
 - item2
+  - item1
 - item3
