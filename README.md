@@ -1,10 +1,6 @@
 # Rules of Gomoku
-## - 1. Five pieces with the same color are connected in a row, can be in any direction. (Including Vertical, Horizontal and Diagonal) 
-### tips: while the opponet has 3 piece in a row without any other player's piece that was set beside, if you don't have the '3' or 4 piece in a row which doesn't have been block by both side before opponet has it, you have to block it by either side, other wise you are gonna lose.
-#### Title-4
-###### Title-6
-- list
-- item1
-- item2
-  - item1
-- item3
+## - 1. Players alternate turns placing a stone of their color on an empty intersection. 
+## - 2. Black plays first.
+## - 3. The winner is the first player to form an unbroken line of five stones of their color horizontally, vertically, or diagonally. 
+## - 4. If the board is completely filled and no one can make a line of 5 stones, then the game ends in a draw.
+## - 5. A 9 x 8 goboard
